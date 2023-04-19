@@ -18,14 +18,14 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
+    description: "Ryan Byun's website"
+    #twitter: 'wowchemy'
+  #analytics:
+  #  google_analytics: ''
+  #  baidu_tongji: ''
+  #verification:
+  #  google: ''
+  #  baidu: ''
 
 # Site header
 
@@ -43,17 +43,17 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+    notice: '© 2023 Ryan Byun'
+    #license:
+    #  enable: true
+    #  allow_derivatives: false
+    #  share_alike: true
+    #  allow_commercial: false
 
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'January 2, 2006'
   time_format: '3:04 PM'
   address_format: en-us
 
@@ -78,7 +78,7 @@ features:
     provider: ''
     disqus:
       shortname: ''
-      show_count: true
+      show_count: false
     commento:
       url: ''
     giscus:

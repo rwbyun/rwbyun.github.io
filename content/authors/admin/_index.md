@@ -42,9 +42,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: google-scholar # Alternatively, use `google-scholar`graduation-cap icon from `ai`fas icon pack
-    icon_pack: ai
-    link: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C15&q=ryan+byun&btnG=
+#  - icon: google-scholar # Alternatively, use `google-scholar`graduation-cap icon from `ai`fas icon pack
+#    icon_pack: ai
+#    link: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C15&q=ryan+byun&btnG=
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ryan-byun-b70a3a1aa/ko?trk=people-guest_people_search-card
